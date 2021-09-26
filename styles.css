@@ -20,7 +20,7 @@
     .wrapper {
         text-align: center;
         width: 1440px;
-        background-image: url(/order-summary-component-main/images/pattern-background-desktop.svg);
+        background-image: url(./images/pattern-background-desktop.svg);
         background-size: 1440px;
         background-repeat: no-repeat;
         background-color: hsl(225, 100%, 94%);
@@ -43,7 +43,7 @@
     }
     
     .hero {
-        background-image: url(/order-summary-component-main/images/illustration-hero.svg);
+        background-image: url(./images/illustration-hero.svg);
         width: inherit;
         height: 220px;
         background-size: fit;
